@@ -4,6 +4,8 @@ Welcome to my GitHub profile! I'm a dynamic and results-driven professional with
 
 📍 **Location**:   Nairobi, Kenya  
 📫 **Email**:      [danielnjama2015@gmail.com](mailto:danielnjama2015@gmail.com)  
+📞 **Phone**:      +254-717-828-927  
+💬 **WhatsApp**:   [Chat with me on WhatsApp](https://wa.me/254717828927) 
 🔗 **LinkedIn**:   [Daniel Njama Wangari](https://www.linkedin.com/in/daniel-wangari-867531178/)  
 🌍 **Blog**:       [wordspiner.xyz](https://wordspiner.xyz/)  
 🌍 **Website**:    [dtechnologys.com](https://dtechnologys.com/)
