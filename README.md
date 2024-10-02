@@ -24,6 +24,7 @@ I'm currently learning more about **Generative AI** and **Machine Learning**.
 - **Senior Technical Team Lead at Dynamic Technologies** (September 2020 – Present)
 - **Technical Support Engineer at Ryanada Ryanada Limited** (November 2021 – April 2023)
 - **Backend Developer at MouseInc** (January 2021 – August 2023)
+- **IT Support Specialist at Hi-specs Computer Systems** (August 2019 – October 2021)
 
 I have led teams and contributed to improving cloud infrastructure, automation, and system performance for businesses and service optimization. I have also taken part in training back-end Developers and technical support engineers.
 
