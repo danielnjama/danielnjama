@@ -46,8 +46,9 @@ Here are some of the projects I've been working on:
 - Explore the Docker images I’ve published.
 - [Docker Hub](https://hub.docker.com/u/dannywangari)
 
-## 📹 YouTube Channel
-I regularly post tutorials on Docker, Django, and other web technologies. Check out my [YouTube Channel](https://www.youtube.com/channel/UCjd_Xtd2fKRXuxg0_1TMyFw).
+### 4. **YouTube Channel**
+I regularly post tutorials on Docker, Django, and other web technologies.
+[YouTube Channel](https://www.youtube.com/channel/UCjd_Xtd2fKRXuxg0_1TMyFw).
 
 ## 💼 Services I Offer
 I am available for projects and training in the following areas:
@@ -68,7 +69,7 @@ I am available for projects and training in the following areas:
 Feel free to contact me for any of the above services. I'm open to freelance projects, technical training, and consultations.
 
 
-## 🌍 Let's Connect!
+## 🌍🌍 Let's Connect!🌍🌍
 Feel free to reach out if you’d like to collaborate on any exciting projects or have any queries.
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-wangari-867531178/)
