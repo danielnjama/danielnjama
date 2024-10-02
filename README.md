@@ -50,6 +50,11 @@ Here are some of the projects I've been working on:
 I regularly post tutorials on Docker, Django, and other web technologies.
 [YouTube Channel](https://www.youtube.com/channel/UCjd_Xtd2fKRXuxg0_1TMyFw).
 
+### 5. **E-Learning Platform**
+I am working on an E-Learning portal.
+[E-Learning Portal](https://class.dtechnologys.com/).
+
+
 ## 💼 Services I Offer
 I am available for projects and training in the following areas:
 
