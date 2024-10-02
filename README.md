@@ -48,11 +48,11 @@ Here are some of the projects I've been working on:
 
 ### 4. **YouTube Channel**
 I regularly post tutorials on Docker, Django, and other web technologies.
-[YouTube Channel](https://www.youtube.com/channel/UCjd_Xtd2fKRXuxg0_1TMyFw).
+- [YouTube Channel](https://www.youtube.com/channel/UCjd_Xtd2fKRXuxg0_1TMyFw).
 
 ### 5. **E-Learning Platform**
 I am working on an E-Learning portal.
-[E-Learning Portal](https://class.dtechnologys.com/).
+- [E-Learning Portal](https://class.dtechnologys.com/).
 
 
 ## 💼 Services I Offer
