@@ -1,18 +1,17 @@
 # Hi, I'm Daniel Wangari 👋
 
-Welcome to my GitHub profile! I'm a dynamic and results-driven professional with a passion for technology, specializing in back-end web development, technical support, and IT infrastructure. I have experience working with technologies such as **Docker**, **Kubernetes**, **Django**, **Python**, **AWS**, and **MySQL**. I'm always eager to learn and innovate.
+Welcome to my GitHub profile! I'm a dynamic and results-driven professional with a passion for technology, specializing in back-end web development, technical support, and IT infrastructure. I have experience working with technologies such as **Docker**, **Kubernetes**,**Linux** **Django**, **Python**, **AWS**, and **MySQL**. I'm always eager to learn and innovate.
 
 📍 **Location**:   Nairobi, Kenya  
 📫 **Email**:      [danielnjama2015@gmail.com](mailto:danielnjama2015@gmail.com)  
 🔗 **LinkedIn**:   [Daniel Njama Wangari](https://www.linkedin.com/in/daniel-wangari-867531178/)  
-🌍 **Blog**:       [wordspiner.xyz](https://wordspiner.xyz/)
+🌍 **Blog**:       [wordspiner.xyz](https://wordspiner.xyz/)  
 🌍 **Website**:    [dtechnologys.com](https://dtechnologys.com/)
 
 ## 🚀 Technical Skills
 - **Languages**: Python, SQL
-- **Frameworks/Technologies**: Django, Flask, Docker, Kubernetes
+- **Frameworks/Technologies**: Django, Flask
 - **Databases**: MySQL, PostgreSQL, MongoDB
-- **Cloud Platforms**: AWS, Google Cloud
 - **DevOps**: Ansible, Docker, Kubernetes, AWS
 - **Operating Systems**: Linux, Windows Server
 
@@ -35,7 +34,7 @@ I have led teams and contributed to improving cloud infrastructure, automation, 
 Here are some of the projects I've been working on:
 
 ### 1. **Dynamic Technologies Project**
-- This is a portfolio I use to show case the services I offer. 
+- This is a portfolio I use to showcase the services I offer. 
 - [Website](https://dtechnologys.com/)
   
 ### 2. **Blog Website**
