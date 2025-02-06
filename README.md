@@ -76,7 +76,7 @@ I am available for projects and training in the following areas:
 Feel free to contact me for any of the above services. I'm open to freelance projects, technical training, and consultations.
 
 ## My Creds
-[Watch My Creds!](./Daniel%20GitHub%20Ambassador%20Creds.mp4)
+[Watch My Creds!](https://www.youtube.com/shorts/YQWXYUMrCoE)
 
 
 
